@@ -37,13 +37,15 @@ Jupyter / Google Colab
 4. 8 km NW of Prague, Oklahoma     (89 مرة)
 5. 8 km NNW of The Geysers, CA     (83 مرة)
 ### 6.الاستنتاجات
+
+
 الزلازل تتكرر بكثرة في مناطق مثل California وAlaska.
 
 العمق له علاقة متوسطة بقوة الزلزال.
 
 بعض أنواع الزلازل تتسبب بأضرار أكبر بناءً على توزيع القوة.
 
-
+``` 
 git clone https://github.com/AMR-am/earthquake-analysis-2025.git
 cd earthquake-analysis-2025
 
