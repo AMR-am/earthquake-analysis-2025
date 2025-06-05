@@ -4,7 +4,7 @@
 
 ---
 
-## 📊 محتوى المشروع
+##  محتوى المشروع
 
 ### 1. قراءة وتجهيز البيانات
 - تم تحميل البيانات من [USGS Earthquake Catalog](https://earthquake.usgs.gov/earthquakes/search/).
@@ -41,6 +41,7 @@ Pandas
 Seaborn
 Matplotlib
 Jupyter / Google Colab
+----
 
 git clone https://github.com/AMR-am/earthquake-analysis-2025.git
 cd earthquake-analysis-2025
