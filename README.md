@@ -6,6 +6,13 @@
 
 ##  محتوى المشروع
 
+## التقنيات المستخدمة :
+Python
+Pandas
+Seaborn
+Matplotlib
+Jupyter / Google Colab
+
 ### 1. قراءة وتجهيز البيانات
 - تم تحميل البيانات من [USGS Earthquake Catalog](https://earthquake.usgs.gov/earthquakes/search/).
 - تم الاقتصار على الأعمدة الأساسية: `time`, `latitude`, `longitude`, `depth`, `mag`, `place`, `type`.
@@ -35,13 +42,7 @@
 العمق له علاقة متوسطة بقوة الزلزال.
 
 بعض أنواع الزلازل تتسبب بأضرار أكبر بناءً على توزيع القوة.
-## 7. التقنيات المستخدمة :
-Python
-Pandas
-Seaborn
-Matplotlib
-Jupyter / Google Colab
-----
+
 
 git clone https://github.com/AMR-am/earthquake-analysis-2025.git
 cd earthquake-analysis-2025
