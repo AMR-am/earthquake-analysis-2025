@@ -36,8 +36,8 @@ Jupyter / Google Colab
 3. 63 km WNW of Tyonek, Alaska    (100 مرة)
 4. 8 km NW of Prague, Oklahoma     (89 مرة)
 5. 8 km NNW of The Geysers, CA     (83 مرة)
+```
 ### 6.الاستنتاجات
-
 
 الزلازل تتكرر بكثرة في مناطق مثل California وAlaska.
 
@@ -45,7 +45,11 @@ Jupyter / Google Colab
 
 بعض أنواع الزلازل تتسبب بأضرار أكبر بناءً على توزيع القوة.
 
-``` 
+ ##  طريقة الاستخدام
+
+### تحميل المشروع
+
+```bash
 git clone https://github.com/AMR-am/earthquake-analysis-2025.git
 cd earthquake-analysis-2025
 
