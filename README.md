@@ -5,13 +5,17 @@
 ---
 
 ##  محتوى المشروع
+---
 
-## التقنيات المستخدمة :
-. Python
-. Pandas
-. Seaborn
-. Matplotlib
-. Jupyter / Google Colab
+##  التقنيات المستخدمة
+
+- Python 
+- Pandas و NumPy لتحليل البيانات
+- Seaborn و Matplotlib للرسم البياني
+- Plotly لإنشاء رسوم تفاعلية
+- Google Colab لتجربة وتنفيذ المشروع بسهولة
+
+---
 
 ### 1. قراءة وتجهيز البيانات
 - تم تحميل البيانات من [USGS Earthquake Catalog](https://earthquake.usgs.gov/earthquakes/search/).
